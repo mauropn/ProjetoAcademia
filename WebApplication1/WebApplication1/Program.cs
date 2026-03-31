@@ -15,6 +15,8 @@ if (app.Environment.IsDevelopment())
 }
 
 
+blz eu to aqui
+
 app.UseAuthorization();
 
 app.MapControllers();
