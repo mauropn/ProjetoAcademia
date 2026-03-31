@@ -20,6 +20,8 @@ blz eu to aqui
 
     alteração da tela de login
 
+    alterado pelo fulano diferente.
+
 app.UseAuthorization();
 
 app.MapControllers();
